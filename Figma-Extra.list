@@ -1,0 +1,11 @@
+# Figma 辅助域名补充规则（By QiaoYa）
+DOMAIN-SUFFIX,figma.com
+DOMAIN-SUFFIX,figma.net
+DOMAIN-SUFFIX,figma.site
+DOMAIN-SUFFIX,figmacdn.net
+DOMAIN-SUFFIX,figmausercontent.com
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,launchdarkly.com
