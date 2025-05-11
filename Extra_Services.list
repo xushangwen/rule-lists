@@ -1,1 +1,22 @@
+# Extra AI & Design Services Routing Rules （By QiaoYa）
+# 包含 Figma、Metaculus、Grok 等辅助域名
 
+# ==== Figma 相关 ====
+DOMAIN-SUFFIX,figma.com
+DOMAIN-SUFFIX,figma.net
+DOMAIN-SUFFIX,figma.site
+DOMAIN-SUFFIX,figmacdn.net
+DOMAIN-SUFFIX,figmausercontent.com
+
+# ==== Figma 功能依赖服务（调试、实验、埋点等） ====
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,sprig.com
+
+# ==== AI & 预测平台 ====
+DOMAIN-SUFFIX,metaculus.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-KEYWORD,grok
