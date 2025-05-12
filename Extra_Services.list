@@ -20,3 +20,6 @@ DOMAIN-SUFFIX,sprig.com
 DOMAIN-SUFFIX,metaculus.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-KEYWORD,grok
+
+# ==== 设计资源平台 ====
+DOMAIN-SUFFIX,flowbase.co
