@@ -22,10 +22,10 @@ DOMAIN-SUFFIX,x.ai
 DOMAIN-KEYWORD,grok
 
 # ==== 设计资源平台 ====
-DOMAIN-SUFFIX,flowbase.co,AI
-DOMAIN-SUFFIX,cdn.flowbase.co,AI
-DOMAIN-SUFFIX,clarity.ms,AI
-DOMAIN-SUFFIX,jetboost.io,AI
-DOMAIN-SUFFIX,cdn.jetboost.io,AI
-DOMAIN-SUFFIX,pages.dev,AI
-DOMAIN-KEYWORD,flowbase,AI
+DOMAIN-SUFFIX,flowbase.co
+DOMAIN-SUFFIX,cdn.flowbase.co
+DOMAIN-SUFFIX,clarity.ms
+DOMAIN-SUFFIX,jetboost.io
+DOMAIN-SUFFIX,cdn.jetboost.io
+DOMAIN-SUFFIX,pages.dev
+DOMAIN-KEYWORD,flowbase
