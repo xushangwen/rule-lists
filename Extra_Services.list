@@ -20,19 +20,3 @@ DOMAIN-SUFFIX,sprig.com
 DOMAIN-SUFFIX,metaculus.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-KEYWORD,grok
-
-# ==== 设计资源平台 ====
-DOMAIN-SUFFIX,flowbase.co
-DOMAIN-SUFFIX,cdn.flowbase.co
-DOMAIN-SUFFIX,clarity.ms
-DOMAIN-SUFFIX,jetboost.io
-DOMAIN-SUFFIX,cdn.jetboost.io
-DOMAIN-SUFFIX,pages.dev
-DOMAIN-KEYWORD,flowbase
-DOMAIN-KEYWORD,clarity
-
-
-# ==== Stripe 相关域名 ====
-DOMAIN-SUFFIX,stripe.com
-DOMAIN-SUFFIX,stripe.network
-DOMAIN-KEYWORD,stripe
