@@ -30,3 +30,9 @@ DOMAIN-SUFFIX,cdn.jetboost.io
 DOMAIN-SUFFIX,pages.dev
 DOMAIN-KEYWORD,flowbase
 DOMAIN-KEYWORD,clarity
+
+
+# ==== Stripe 相关域名 ====
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripe.network
+DOMAIN-KEYWORD,stripe
